@@ -1,4 +1,4 @@
-## Notes
+<!-- ## Notes
 
 #### Older React Version
 
@@ -19,4 +19,7 @@
 #### Alternative fix
 
 .env file in the root
-FAST_REFRESH=FALSE
+FAST_REFRESH=FALSE -->
+
+
+# E-commerce-furnitures-store
